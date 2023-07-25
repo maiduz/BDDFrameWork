@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2dcfd14e-c593-4a95-9d54-b9c53ef74077" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/Etsystepdefinition/Estystepdefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/Etsystepdefinition/Estystepdefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/UnitedAirlinesHomepage/UnitedAirlinesHomepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/UnitedAirlinesHomepage/UnitedAirlinesHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/UnitedAirlinesfeature/UnitedAirlinesHomepage.feature" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/UnitedAirlinesfeature/UnitedAirlinesHomepage.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/UnitedAirlinesstepdefinition/UnitedAirlinesstepdefinition.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/src/main/java/UnitedAirlinesstepdefinition/UnitedAirlinesstepdefinition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/src/test/java/UnitedAirlinesTestRunner/UnitedAirlinesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/src/test/java/UnitedAirlinesTestRunner/UnitedAirlinesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/EtsyHomepage/EtsyHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/EtsyHomepage/EtsyHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/EtsyWebElements/EtsyElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/EtsyWebElements/EtsyElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/Etsystepdefinition/Estystepdefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/Etsystepdefinition/Estystepdefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/GeicoHomePage/GeicoHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/GeicoHomePage/GeicoHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/GeicoStepDefinition/Geicostepdefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/GeicoStepDefinition/Geicostepdefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/GeicoWebElementsHomepage/GeicoElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/GeicoWebElementsHomepage/GeicoElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/UnitedAirlinesHomepage/UnitedAirlinesHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/UnitedAirlinesHomepage/UnitedAirlinesHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/UnitedAirlinesWebElements/UnitedAirlinesElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/UnitedAirlinesWebElements/UnitedAirlinesElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/UnitedAirlinesstepdefinition/UnitedAirlinesstepdefinition.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/UnitedAirlinesstepdefinition/UnitedAirlinesstepdefinition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/common/WebAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/common/WebAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/test-classes/EtsyTestRunner/EtsyRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/test-classes/EtsyTestRunner/EtsyRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/test-classes/GeicoTestRunner/GeicoRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/test-classes/GeicoTestRunner/GeicoRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/target/test-classes/UnitedAirlinesTestRunner/UnitedAirlinesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/target/test-classes/UnitedAirlinesTestRunner/UnitedAirlinesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/test-output/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/test-output/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/test-output/jquery-3.4.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/test-output/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/test-output/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/test-output/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MasterBDDFramework/test-output/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/MasterBDDFramework/test-output/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MasterBDDFramework" />
+  </component>
+  <component name="ProjectId" id="2T4E3EtKe2tUp6B9bcTYPgaPWDR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/md_mu/OneDrive/Desktop/New folder (5)/TDD FrameWork"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dcfd14e-c593-4a95-9d54-b9c53ef74077" name="Changes" comment="" />
+      <created>1690293751188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690293751188</updated>
+    </task>
+    <servers />
+  </component>
+</project>
